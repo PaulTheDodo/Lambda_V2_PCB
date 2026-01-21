@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\COLLEGE\_TeamLambda\PCB_Altium\Lambda_V2\Lambda_V2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=lambda_v2-roundholes.txt|DrillLayers=gtl,g1,gp1,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=lambda_v2-slotholes.txt|DrillLayers=gtl,g1,gp1,gbl

@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Lambda_V2.PcbDoc   07-01-2026  14:36:46
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Lambda_V2-RoundHoles.TXT
+ASCII SlotHoles File : Lambda_V2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             12        PTH        14.34mm (0.56inch)
+T2      0.305mm (12mil)                                           Round             996       PTH        4283.71mm (168.65inch)
+T3      0.6mm (24mil)                                             Slot              8         PTH        148.01mm (5.83inch)
+T4      0.711mm (28mil)                                           Round             11        PTH        138.21mm (5.44inch)
+T5      0.864mm (34mil)                                           Round             6         PTH        99.71mm (3.93inch)
+T6      1mm (39mil)                                               Round             10        PTH        27.78mm (1.09inch)
+T7      1.016mm (40mil)                                           Round             40        PTH        99.06mm (3.90inch)
+T8      1.1mm (43mil)                                             Round             4         PTH        14.73mm (0.58inch)
+T9      1.5mm (59mil)                                             Round             4         PTH        47.24mm (1.86inch)
+T10     1.6mm (63mil)                                             Round             10        PTH        100.97mm (3.98inch)
+T11     2.7mm (106mil)                                            Round             4         PTH        114.00mm (4.49inch)
+T12     4.55mm (179mil)                                           Round             2         PTH        7.20mm (0.28inch)
+T13     1.1mm (43mil)                                             Round             4         NPTH       14.73mm (0.58inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1111
+
+Total Processing Time (hh:mm:ss) : 00:00:00
